@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Friends3.xcodeproj">
+      location = "self:/Users/Przemek/CloudStation/Projekty/Friends3/Planer.xcodeproj">
    </FileRef>
 </Workspace>

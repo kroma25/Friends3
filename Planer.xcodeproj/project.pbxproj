@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		0153D7CE240D481D00D50189 /* Kroki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kroki.swift; sourceTree = "<group>"; };
-		018B575D23F8817C0057A391 /* Friends3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Friends3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		018B575D23F8817C0057A391 /* Planer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Planer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		018B576023F8817C0057A391 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		018B576223F8817C0057A391 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		018B576423F8817C0057A391 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		018B575423F8817C0057A391 = {
 			isa = PBXGroup;
 			children = (
-				018B575F23F8817C0057A391 /* Friends3 */,
+				018B575F23F8817C0057A391 /* Planer */,
 				018B575E23F8817C0057A391 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 		018B575E23F8817C0057A391 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				018B575D23F8817C0057A391 /* Friends3.app */,
+				018B575D23F8817C0057A391 /* Planer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		018B575F23F8817C0057A391 /* Friends3 */ = {
+		018B575F23F8817C0057A391 /* Planer */ = {
 			isa = PBXGroup;
 			children = (
 				018B576023F8817C0057A391 /* AppDelegate.swift */,
@@ -73,15 +73,15 @@
 				018B577123F8817D0057A391 /* Info.plist */,
 				018B576923F8817C0057A391 /* Friends3.xcdatamodeld */,
 			);
-			path = Friends3;
+			path = Planer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		018B575C23F8817C0057A391 /* Friends3 */ = {
+		018B575C23F8817C0057A391 /* Planer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 018B577423F8817D0057A391 /* Build configuration list for PBXNativeTarget "Friends3" */;
+			buildConfigurationList = 018B577423F8817D0057A391 /* Build configuration list for PBXNativeTarget "Planer" */;
 			buildPhases = (
 				018B575923F8817C0057A391 /* Sources */,
 				018B575A23F8817C0057A391 /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = Friends3;
+			name = Planer;
 			productName = Friends3;
-			productReference = 018B575D23F8817C0057A391 /* Friends3.app */;
+			productReference = 018B575D23F8817C0057A391 /* Planer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 018B575823F8817C0057A391 /* Build configuration list for PBXProject "Friends3" */;
+			buildConfigurationList = 018B575823F8817C0057A391 /* Build configuration list for PBXProject "Planer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				018B575C23F8817C0057A391 /* Friends3 */,
+				018B575C23F8817C0057A391 /* Planer */,
 			);
 		};
 /* End PBXProject section */
@@ -305,8 +305,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Kromka.Friends3;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = Kromka.Planer;
+				PRODUCT_NAME = Planer;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -323,8 +323,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Kromka.Friends3;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = Kromka.Planer;
+				PRODUCT_NAME = Planer;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		018B575823F8817C0057A391 /* Build configuration list for PBXProject "Friends3" */ = {
+		018B575823F8817C0057A391 /* Build configuration list for PBXProject "Planer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				018B577223F8817D0057A391 /* Debug */,
@@ -342,7 +342,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		018B577423F8817D0057A391 /* Build configuration list for PBXNativeTarget "Friends3" */ = {
+		018B577423F8817D0057A391 /* Build configuration list for PBXNativeTarget "Planer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				018B577523F8817D0057A391 /* Debug */,

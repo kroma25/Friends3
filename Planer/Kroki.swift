@@ -14,7 +14,7 @@ import Foundation
 //Z-4. reset zegara - reset usuwa z bazy i zaraz dodaje akutlanie jest na pierwszym miejscu a powinno byc na ostatnim
 //Z-6. ikonka
 
-
+//2b. Ile dni, godzin, minut ,sekund.
 //3. edycja nazwy
 //3b. dodawnie z mozliwoscia wyboru
 //4a. pozbyc sie wszystkich warnignów
