@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "9ZF-CK-4vV"; */
+"9ZF-CK-4vV.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "G6a-d5-vXE"; */
+"G6a-d5-vXE.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Id"; ObjectID = "OmG-CU-pV7"; */
+"OmG-CU-pV7.text" = "Id";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ReE-kS-6Tn"; */
+"ReE-kS-6Tn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "i9A-KA-cXZ"; */
+"i9A-KA-cXZ.text" = "Title";
